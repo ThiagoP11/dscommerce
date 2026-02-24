@@ -23,7 +23,4 @@ public class CategoryService {
         return result.stream().map(CategoryDTO::new).toList();
     }
 
-
-
-
 }
